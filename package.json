@@ -1,0 +1,23 @@
+{
+  "name": "tonic-plotly",
+  "version": "0.1.1",
+  "description": "Render with plotly on tonicdev.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtharriger/tonic-plotly.git"
+  },
+  "keywords": [
+    "tonicdev",
+    "plotly"
+  ],
+  "author": "Kurt Harriger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurtharriger/tonic-plotly/issues"
+  },
+  "homepage": "https://github.com/kurtharriger/tonic-plotly#readme"
+}
